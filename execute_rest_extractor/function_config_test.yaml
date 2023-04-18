@@ -9,4 +9,4 @@ env_vars: {
   "COGNITE_PROJECT": "cdf-bootcamp-56-test",
   "COGNITE_TOKEN_URL": "https://login.microsoftonline.com/16e3985b-ebe8-4e24-9da4-933e21a9fc81/oauth2/v2.0/token",
 }
-data_set_id: uc:001:oee:ds
+data_set_id: 567139471674715
